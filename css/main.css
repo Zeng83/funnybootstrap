@@ -1,0 +1,28 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+@media only screen and (max-width: 980px) {
+  body {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+.carousel-inner img {
+  width: 100%;
+}
+
+.funnybootstrap .carousel-indicators{
+  margin: 0 -21px;
+  top: 92%;
+  left: 48%;
+}
+
+ul.block-list {
+  margin-left: 0;
+}
+
+ul.block-list li {
+  list-style: none;
+}
